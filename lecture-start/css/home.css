@@ -1,5 +1,9 @@
 #cards {
   /* Flex, space-around, 2rem, wrap */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
 
 }
 
